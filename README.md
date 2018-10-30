@@ -16,7 +16,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - 2-3 Hours of Study per Day
 
 #### Tools Used
-- Python, SQL, R, Tensorflow, Kaggle, Hadoop, MapReduce
+- Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark, GitHub, 
 
 ### Accelerated Learning Techniques
 - Watch videos at 2x or 3x speed using a browser extension
@@ -72,4 +72,4 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - Edx https://www.edx.org/course/analytics-storytelling-impact-1
 
 ## Week 4 Kaggle Project #3
--- Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
+- Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
