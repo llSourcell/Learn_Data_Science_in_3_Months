@@ -16,7 +16,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - 2-3 Hours of Study per Day
 
 #### Tools Used
-- Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark, GitHub, 
+- Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark, GitHub.
 
 ### Accelerated Learning Techniques
 - Watch videos at 2x or 3x speed using a browser extension
