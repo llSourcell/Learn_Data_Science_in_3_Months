@@ -31,6 +31,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 
 ## Week 2 - Statistics & Probability
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
+- Stanford's MOOC on ProbStat https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about
 
 ## Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis
 - EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis
