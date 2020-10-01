@@ -8,7 +8,7 @@ This is the Curriculum for [Learn Data Science in 3 Months](https://youtu.be/9rD
 Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.com) channel to find one. 
 
 #### Components
-- 3 Projects 
+- 3 Projects or more
 - 1 Weekly assignment. Pick 1 from the course for each week, do it in a weekend. 
 
 #### Course Length
